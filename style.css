@@ -1,0 +1,118 @@
+body{
+	background-color: #FAEBD7;
+}
+.container{
+	width: 100%
+	height: 100%;
+}
+.fontss{
+	font-family: Century Gothic, sans-serif;
+	color: white;
+	font-size: 300%;
+}
+.column1{
+	position: absolute;
+	background-color: #E24E42;
+	top: 30%;
+	left: 20%;
+	height: 200px;
+	width: 200px;
+}
+._text{
+	position: absolute;
+	top: 16%;
+}
+.column2{
+	position: absolute;
+	background-color: #EB6E80;
+	top: 30%;
+	left: 40%;
+	height: 200px;
+	width: 200px;
+}
+.column3{
+
+	position: absolute;
+	background-color: #008F95;
+	top: 30%;
+	left: 60%;
+	height: 200px;
+	width: 200px;
+}
+
+.column4{
+	opacity: 0;
+	position: absolute;
+	background-image: url("img/x.png");
+	background-size: cover;
+	top: 5%;
+	left: 90%;
+	height: 30px;
+	width: 30px;
+	z-index: 2;
+}
+.editing{
+	position: absolute;
+	top: 45%;
+	width: 8%;
+}
+.e1{
+	left: 32%;
+}
+.e2{
+	left: 42%;
+}
+.e3{
+	left: 52%;
+}
+.e4{
+	left: 62%
+}
+.h1{
+	text-align: center;
+	font-family: "Raleway", sans-serif;
+}
+.contact_me{
+	position: absolute;
+	left: 15.5%;
+	top: 30%;
+	font-size: 40px;
+	color: white;
+}
+.bor{
+	width: 25%;
+	border: 2px solid white;
+	padding: 10px;
+}
+.icon{
+	position: absolute;
+	top: 50%;
+	width: 7%;
+}
+
+.facebook{
+	left: 5%;
+}
+
+.linkedin{
+	left: 15%;
+}
+
+.github{
+	left: 25%;
+}
+
+.flickr{
+	left: 35%;
+}
+
+.youtube{
+	left: 45%;
+}
+
+.self{
+	position: absolute;
+	left: 57%;
+	top: 20%;
+	width: 33%;
+}
